@@ -1,0 +1,9 @@
+Pillow
+numpy
+pandas
+matplotlib
+tensorflow-gpu==1.4
+keras==2.1.3
+gensim
+jupyter
+
